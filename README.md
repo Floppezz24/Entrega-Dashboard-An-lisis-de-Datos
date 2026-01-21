@@ -45,8 +45,7 @@ El dashboard incluye:
 * Indicadores principales:
   * Total de sesiones.
   * Duración media de las sesiones.
-  * Satisfacción media.
-  
+  * 
 * Gráficos:
   * Uso de la IA por tipo de tarea.
   * Distribución del nivel de los estudiantes.
@@ -56,6 +55,7 @@ El dashboard incluye:
 * Filtros:
   * Tipo de tarea.
   * Nivel del estudiante.
+  * Tipos de estudios.
 
 Enlace al dashboard (modo lectura):
 https://docs.google.com/spreadsheets/d/1Bu068iiDPgHgFCXeXJWRnUZ2Jruht-MByWCRsEcAdWk/edit?usp=sharing
