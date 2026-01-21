@@ -3,7 +3,8 @@
 #Análisis del uso de asistentes de IA por estudiantes
 
 #Descripción del proyecto
-Este proyecto consiste en un análisis sencillo sobre cómo los estudiantes utilizan asistentes de Inteligencia Artificial. El objetivo es entender para qué tipo de tareas se usan, cuánto tiempo se dedica a cada sesión y si los estudiantes quedan satisfechos con la experiencia. Para ello, se ha trabajado con un conjunto de datos en formato CSV y se ha creado un dashboard en Google Sheets para visualizar los resultados.
+Este proyecto consiste en un análisis sencillo sobre cómo los estudiantes utilizan asistentes de Inteligencia Artificial. El objetivo es entender para qué tipo de tareas se usan, cuánto tiempo se dedica a cada sesión y si los estudiantes quedan satisfechos con la experiencia. 
+Para ello, se ha trabajado con un conjunto de datos en formato CSV que se ha subido a la plataforma en thePower y se ha creado un dashboard en Google Sheets para visualizar los resultados.
 
 #Estructura del proyecto
 El repositorio está organizado de la siguiente manera:
